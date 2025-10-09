@@ -127,7 +127,7 @@ Die Skripte funktionieren, und eine Abregelung seitens des Energieversorgers wur
 ## Diskussion
 Es gibt vergleichbare Lösungen mit Home Assistant oder ioBroker. Ziel war eine schlichte, unabhängige Lösung zu finden. Es hat Spaß gemacht, das Projekt zu entwickeln. Ob es sich langfristig rechnet, ist eine andere Sache. Bei der Anschaffung muss man bedenken, dass man die ca. 150 Euro Investition auch wieder herausbekommen sollte. Zu beachten ist auch, dass die aktuellen Miner wie der Avalon Nano 3S für ganze 6 TH nur 140 Watt verbrauchen. Diese modernen Geräte kosten jedoch auch in der Anschaffung mehr, sind schwerer zu beziehen und sind für dieses Projekt daher eher zweitrangig. Hier ging es ja darum, ein Kilowatt mit einer günstigen Lösung vor der Abregelung (Kappung) zu "retten". Außerdem wird dadurch der Lüfter des Wechselrichters entlastet, der ansonsten die dort anfallende Wärme abführen müsste. Zu beachten ist, dass ein Antminer S9 ebenfalls wie der Wechselrichter die Energie von 1300 Watt in Wärme umsetzt und bei voller Last nicht ganz leise ist. Der Vorteil dieser Lösung ist jedoch, dass die Wärme gezielt an einem anderen Ort als dem des Wechselrichters erzeugt und entweder dort genutzt oder evtl. nach außen abgeleitet werden kann. Bei jeder Leistungsanpassung startet der Antminer S9 durch und beide Lüfter gehen für kurze Zeit auf 100 % Leistung, was dem Sound einer Heulboje gleichkommt. Vermutlich kann man dies im Braiins OS irgendwo abstellen bzw. einstellen. Uns hat es bisher nicht gestört, da das Gerät im Keller steht oder nur kurz auf dem Küchentisch getestet wurde. Mit dem Gerät kann man sowohl 'Bitcoin' als auch 'Bitcoin Cash' minen. Ob man mit dem Miner Solomining (Lotterie-Mining) betreibt oder ein paar Zehntelcent pro Sonnenstunde durch einen normalen Mining-Pool wie f2pool einnimmt, ist jedem selbst überlassen.
 
-## Credits
+## Danksagung
 Dieses Projekt wäre nicht ohne andere Personen und ihre Entwicklungen möglich gewesen. Hierzu zählen die beiden Abfrageskripte zu den Wechselrichtern von Fronius und Kostal, sowie die stl-Dateien zum 3D-Druck der praktischen Tragevorrichtung des Antminers S9:
 - **Fronius Python-Skript: Andreas Kleber** https://github.com/akleber/fronius-json-tools/
 - **Kostal Python-Skript:  Kilian Knoll** https://github.com/carichte/kostal-modbusquery
@@ -146,6 +146,7 @@ Original https://www.thingiverse.com/thing:5771853 von Schlimmer
 
 ## Release 
 Oktober 2025
+
 
 
 
