@@ -3,6 +3,7 @@
  **oder: wie man mit einem Antminer S9 der Einspeise-Abregelung entgeht**
 
 **Schlüsselwörter:** Photovoltaik, PV, Wechselrichter, Fronius, Kostal, Antminer S9, mining, BTC, Bitcoin, Braiins OS
+
 **Keywords:** Photovoltaics, PV, inverter, Fronius, Kostal, Antminer S9, mining, BTC, Bitcoin, Braiins OS 
 
 ### Einführung
@@ -144,4 +145,5 @@ Original https://www.thingiverse.com/thing:5771853 von Schlimmer
 
 ## Release 
 Oktober 2025
+
 
