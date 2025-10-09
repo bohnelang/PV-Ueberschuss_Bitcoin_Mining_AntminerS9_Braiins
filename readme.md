@@ -6,6 +6,7 @@
 
 **Keywords:** Photovoltaics, PV, inverter, Fronius, Kostal, Antminer S9, mining, BTC, Bitcoin, Braiins OS 
 
+
 ### Einführung
 Neulich kam ein Kollege an, der sich eine neue PV-Anlage hat installieren lassen. Leider wird die Einspeisung ins Stromnetz bei seinem Stromversorger bei 7,0 KW abgeregelt, so dass er nicht mehr als die 7,0 KW einspeisen kann, während die Anlage 8,5 KW hat. (Vielleicht weil dort noch kein Smartmeter, sondern nur ein intelligenter Stromzähler installiert ist.) Egal, das Problem ist: Wenn der Wechselrichter abregelt, fängt er an, den überschüssigen Strom in Wärme umzusetzen, um sie so zu "verbrauchen". Die Frage war, ob man den überschüssigen Strom nicht noch für etwas "Sinnvolles" nutzen kann. Die Idee war, hierfür einen Bitcoin-Miner einzusetzen. Dieser setzt zwar auch nur Strom in Wärme um, jedoch mit einem gewissen Nutzwert. Die Grundidee ist, dass ein Steuerungs-Skript regelmäßig den Wechselrichter abfragt und so das Mining an die Erzeugung der PV-Anlage koppelt.
 
@@ -145,6 +146,7 @@ Original https://www.thingiverse.com/thing:5771853 von Schlimmer
 
 ## Release 
 Oktober 2025
+
 
 
 
