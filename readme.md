@@ -45,7 +45,7 @@ Möglichkeit 1 (hier beschrieben):
 --> [Router] <---> LAN
         ^
         |
-        +------> WLAN <---> Linux-PC, Wechselrichter, Antminer mit WLAN-Bridge, WLAN-Steckdose
+        +------> WLAN > Linux-PC, Wechselrichter, Antminer mit WLAN-Bridge, WLAN-Steckdose
         
 
 Möglichkeit 2:
@@ -145,5 +145,6 @@ Original https://www.thingiverse.com/thing:5771853 von Schlimmer
 
 ## Release 
 Oktober 2025
+
 
 
