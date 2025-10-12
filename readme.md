@@ -129,8 +129,8 @@ Es gibt vergleichbare Lösungen mit Home Assistant oder ioBroker. Ziel war eine 
 
 ## Danksagung
 Dieses Projekt wäre nicht ohne andere Personen und ihre Entwicklungen möglich gewesen. Hierzu zählen die beiden Abfrageskripte zu den Wechselrichtern von Fronius und Kostal, sowie die stl-Dateien zum 3D-Druck der praktischen Tragevorrichtung des Antminers S9:
-- **Fronius Python-Skript: Andreas Kleber** https://github.com/akleber/fronius-json-tools/
-- **Kostal Python-Skript:  Kilian Knoll** https://github.com/carichte/kostal-modbusquery
+- **Python-Skript zum Auslesen des  Fronius-Wechselrichter: Andreas Kleber** https://github.com/akleber/fronius-json-tools/
+- **Python-Skript zum Auslesen des Kostal-Wechselrichters:  Kilian Knoll** https://github.com/carichte/kostal-modbusquery
 - **3D Dateien: @Nicolas & Schlimmer** [AntminerGriff]
 - **Anleitung zum Flashen von Braiins OS: Ralf Bösenberg** [HroNetz]
 
@@ -146,6 +146,7 @@ Original https://www.thingiverse.com/thing:5771853 von Schlimmer
 
 ## Release 
 Oktober 2025
+
 
 
 
