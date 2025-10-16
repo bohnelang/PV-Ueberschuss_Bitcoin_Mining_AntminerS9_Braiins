@@ -218,7 +218,7 @@ then
 	MINER_LIMIT=$(./AntminerS9_SetPower.sh  -H $ANTMINERS9_IP -L root -P "" -Q  | grep "PowerLimit" |  grep -o '\S*$' )
 	echo  "Minerpowerlimit: $MINER_LIMIT"
 
-	if test $E_GRID -le $MINER_MIN || test $E_BATTERY_CH  -gt 25  
+	if test $E_GRID -le $MINER_MIN 
 	then
 		echo "Shutdown / reduce  due grid or battery consumption (G:$E_GRID /B: $E_BATTERY_CH)"
 		if test $DRY -eq 0
