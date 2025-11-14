@@ -15,10 +15,10 @@ echo
 
 #https://hro-netz.de/upgrade-auf-die-letzte-fuer-den-antminer-s9-verfuegbare-braiins-version-2022-09-27-0-26ba61b9-22-08-1-plus-fuer-power_target-parameter-fuer-home-assistant-auf-antminer-s9-nand-setup-problemloesung/
 
-INVERTER_IP=192.168.178.101
-ANTMINERS9_IP=192.168.178.110
-WIFIPLUG_IP=192.168.1.2:830
-INVERTER="./inverter/FroniusSymoGEN24.sh --host $INVERTER_IP"
+#INVERTER_IP=192.168.178.101
+#ANTMINERS9_IP=192.168.178.110
+#WIFIPLUG_IP=192.168.1.2:830
+#INVERTER="./inverter/FroniusSymoGEN24.sh --host $INVERTER_IP"
 
 
 INVERTER_IP=192.168.1.5
